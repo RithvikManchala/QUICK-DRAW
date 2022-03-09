@@ -1,0 +1,23 @@
+body
+{
+    background-color: #a9f04b;
+}
+
+#score
+
+{
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+#time
+{
+    font-size: 35px;
+    float: right;
+    margin-right: 20px;
+}
+
+#draw
+{
+    color: red;
+}
